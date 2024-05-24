@@ -18,7 +18,7 @@ class _HomePageState extends State<HomePage> {
   @override
   void initState() {
     super.initState();
-    _wf.currentWeatherByCityName("Dhaka").then((w) {
+    _wf.currentWeatherByCityName("RajShahi").then((w) {
       setState(() {
         _weather = w;
       });

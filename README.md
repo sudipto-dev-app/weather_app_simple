@@ -1,7 +1,8 @@
-# weather_app_tutorial
+# weather_app_simple
 
 A new Flutter project.
-
+![Screenshot_20240525_010144.png](Screenshot_20240525_010144.png)![Screenshot_20240525_010427.png](Screenshot_20240525_010427.png)
+![Screenshot_20240525_010525.png](Screenshot_20240525_010525.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
