@@ -1,8 +1,9 @@
 # weather_app_simple
 
 A new Flutter project.
-<img alt="Screenshot_20240525_010144.png" height="600" src="Screenshot_20240525_010144.png" width="300"/>![Screenshot_20240525_010427.png](Screenshot_20240525_010427.png)
-![Screenshot_20240525_010525.png](Screenshot_20240525_010525.png)
+<img alt="Screenshot_20240525_010144.png" height="600" src="Screenshot_20240525_010144.png" width="300"/>
+<img alt="Screenshot_20240525_010427.png" height="600" src="Screenshot_20240525_010427.png" width="300"/>
+<img alt="Screenshot_20240525_010525.png" height="600" src="Screenshot_20240525_010525.png" width="300"/>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
