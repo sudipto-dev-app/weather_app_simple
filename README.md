@@ -1,6 +1,5 @@
 # weather_app_simple
 
-A new Flutter project.
 <img alt="Screenshot_20240525_010144.png" height="600" src="Screenshot_20240525_010144.png" width="300"/>
 <img alt="Screenshot_20240525_010427.png" height="600" src="Screenshot_20240525_010427.png" width="300"/>
 <img alt="Screenshot_20240525_010525.png" height="600" src="Screenshot_20240525_010525.png" width="300"/>
