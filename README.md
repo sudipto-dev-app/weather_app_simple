@@ -1,7 +1,7 @@
 # weather_app_simple
 
 A new Flutter project.
-<img alt="Screenshot_20240525_010144.png" height="300" src="Screenshot_20240525_010144.png" width="100"/>![Screenshot_20240525_010427.png](Screenshot_20240525_010427.png)
+<img alt="Screenshot_20240525_010144.png" height="600" src="Screenshot_20240525_010144.png" width="300"/>![Screenshot_20240525_010427.png](Screenshot_20240525_010427.png)
 ![Screenshot_20240525_010525.png](Screenshot_20240525_010525.png)
 ## Getting Started
 
